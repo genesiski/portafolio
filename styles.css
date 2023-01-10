@@ -1,0 +1,236 @@
+body{
+    background-color: #000000;
+}
+.menu{
+    text-align:center
+}
+.porimg{
+    text-align: center;
+    padding: 40px;
+}
+@media screen and (max-width: 1100px) {
+    .encabezado {
+      margin: 20px, 25px;
+      padding: 25px;
+    }
+  }
+  
+  @media screen and (max-width: 900px) {
+    .encabezado {
+      display: flex;
+      flex-direction: column;
+    }
+  }
+  
+  @media screen and (max-width: 900px) {
+    .encabezado {
+      margin: 20px, 25px;
+      padding: 25px;
+    }
+  }
+  @media screen and (max-width: 580px) {
+    .experiencia {
+      display: flex;
+      flex-direction: column;
+    }
+  }
+  
+  @media screen and (max-width: 500px) {
+    .encabezado {
+      display: flex;
+      flex-direction: column;
+    }
+  }
+  
+  @media screen and (max-width: 500px) {
+    .imagen {
+      display: flex;
+      width: auto;
+    }
+  }
+  @media screen and (max-width: 900px) {
+    .porimg {
+      display: flex;
+      flex-direction: column;
+    }
+  }
+  .imagen{
+    text-align: center;
+  }
+
+a{
+    color:#ffffff;
+    text-decoration:none;
+    padding:12px;
+    font-size:20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a:hover{
+ color: #000000;
+ background-color: #ffffff;
+ font-size: 35px;
+}
+
+.imagen{
+    text-align: center;
+}
+
+
+.presentacion{
+    color: darkgray;
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Diseñador{
+    color: #ffffff;
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sub{
+    color: aliceblue;
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.redes{
+    padding-right: 70px;
+}
+
+.puno{
+    text-align: center;
+    color: darkgray;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pdos{
+    text-align: center;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+.logo-limite{
+    text-align: center;
+    padding-left: 110px;
+    padding-right: 100px;
+}
+
+.logos{
+    padding: 80pxpx;
+    padding-right: 120px;
+    padding-left: 90px;
+}
+
+.redes-2{
+    text-align: center;
+    padding-left: 150px;
+    padding-right: 100px;
+}
+.primera{
+    color: #ffffff;
+    padding: 80px;
+    text-align: center;
+    padding-right: 40px;
+}
+.primera{
+    padding-right: 100px;
+    padding-left: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.segunda{
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 35px;
+    padding-right: 100px;
+}
+.exp{
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 60px;
+}
+.por{
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.porimg{
+    text-align: center;
+    padding-right: 60px;
+    padding-left: 50px;
+}
+.uno{
+    padding: 15px;
+}
+.año{
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 50px;
+}
+.para{
+    padding-left: 600px;
+}
+.cont{
+    padding-top: 70px;
+    text-align: center;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.contac{
+    text-align: center;
+}
+.con{
+    padding-left: 80px;
+    padding-right: 100px;
+    text-align: center;
+}
+.num{
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 50px;
+    padding-right: 275px;
+}
+.email{
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-left: 200px;
+    margin-top: -70px;
+}
+.visual{
+    color: #ffffff;
+    padding-left: 400px;
+}
+.des{
+    color: gray;
+    padding-left: 500px;
+}
+.pro{
+    color: #ffffff;
+    padding-left: 400px;
+}
+.mic{
+    color: gray;
+    padding-left: 500px;
+}
+.ui{
+    color: #ffffff;
+    padding-left: 400px;
+}
+.goo{
+    color: gray;
+    padding-left: 500px;
+}
+.hecho{
+    color: gray;
+    font-size: 20px;
+   text-align: center;
+   padding-top: 100px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
